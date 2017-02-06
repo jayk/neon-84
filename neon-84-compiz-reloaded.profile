@@ -2,8 +2,9 @@
 s0_friction = 5.600000
 
 [resize]
-as_initiate_button = <Alt><Super>Button1
+as_initiate_button = <Control><Primary><Super>Button1
 as_initiate_key = <Super>F8
+as_mode = 2
 
 [cubeaddon]
 as_top_next_key = Disabled
@@ -101,7 +102,7 @@ s0_e_active = false;false;true;false;false;false;false;false;true;true;
 
 [rotate]
 as_flip_time = 500
-as_initiate_button = <Control><Primary><Super>Button1
+as_initiate_button = <Alt><Super>Button1
 as_rotate_left_key = <Alt><Super>Left
 as_rotate_right_key = <Alt><Super>Right
 as_rotate_left_window_key = <Control><Primary><Alt><Super>Left
@@ -139,7 +140,7 @@ s0_shatter_num_tiers = 4
 
 [screenshot]
 as_initiate_button = <Shift><Super>Button1
-as_directory = ~/Pictures/screenshots
+as_directory = /home/jayk/Pictures/screenshots
 
 [move]
 as_initiate_button = <Super>Button1
